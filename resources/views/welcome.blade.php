@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Web Dev Community</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -55,8 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
-                                </div>
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore consectetur tempore nam assumenda eos inventore eius voluptas accusamus vitae omnis, numquam tempora quam illum, ullam non porro doloribus! Deserunt cum excepturi vel similique incidunt temporibus ipsum quas aliquid doloremque soluta, nisi suscipit ea error voluptatibus voluptatum mollitia enim illo quae consequuntur doloribus dolorem quisquam quidem? Numquam sunt tempore ducimus error sed voluptates, laudantium minima voluptatem atque animi amet quibusdam rem possimus dolorum, quasi ut vero fuga praesentium ullam ad? Cumque animi beatae sapiente ab iusto, dignissimos possimus, rerum illum, molestias aut cupiditate repudiandae ullam iure fugiat alias enim eum voluptatibus. Perferendis, ad? Temporibus nemo, dolorem possimus quos, architecto quaerat deserunt ipsum quibusdam aliquid, reiciendis obcaecati natus doloribus sed quasi assumenda. Laudantium dolorem reprehenderit, nemo nobis facere eligendi aspernatur? Facere architecto cumque sapiente rem! Sit similique quidem eaque corrupti cumque expedita molestiae, quis id distinctio magni modi! Aspernatur animi vel quidem velit iure. Perspiciatis quam omnis magni iusto molestiae alias, aliquam beatae pariatur ducimus, impedit, voluptates corrupti recusandae dolorum? Magni tempore quibusdam earum dicta accusamus. Nobis exercitationem incidunt, quos voluptas necessitatibus deserunt error dolore officiis. Iste, libero maxime! Inventore ex qui id veniam placeat. Perferendis veniam rem dolorem vel? Voluptates, obcaecati!                                </div>
                             </div>
                         </div>
 
